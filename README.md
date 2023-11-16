@@ -28,3 +28,6 @@
 1. Install Jupyter Notebook
 1. Run the script
 1. You can choose the rating and price filters according to your preferences
+
+## Please note
+Because the source data CSV files are large and exceed the Github file size limits, all source files are removed from the repo and loaded from the internet source directly. 
